@@ -16,3 +16,7 @@
 ## 如何编译
 
 使用 Visual Studio 2022 进行编译，编译时平台选择 `x86`。
+
+## 感谢
+
+ [gm8x_fix](https://github.com/skyfloogle/gm8x_fix) by skyfloogle
